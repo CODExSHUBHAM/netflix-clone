@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import axios from "axios";
 import { useCallback, useState } from "react"
 import Input from "@/components/input"
